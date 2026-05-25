@@ -1,0 +1,12 @@
+{
+  "profil_utilisateur": {
+    "prenom": "Hugo",
+    "age": "14",
+    "ville": "saint pierre",
+    "profession": "eleve",
+    "partenaire": "",
+    "enfants": "",
+    "passions": "",
+    "ton_prefere": "décontracté"
+  }
+}
